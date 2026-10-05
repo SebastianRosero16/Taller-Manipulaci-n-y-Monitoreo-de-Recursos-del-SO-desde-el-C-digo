@@ -1,0 +1,13 @@
+# Archivo grande de prueba (se genera con generar_archivo_grande.py)
+archivo_grande.txt
+
+# Carpetas del IDE y entorno virtual
+.qodo/
+.vscode/
+Lib/
+Scripts/
+
+# Caché de Python
+__pycache__/
+*.pyc
+*.pyo
